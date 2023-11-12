@@ -18,12 +18,6 @@ The goal of this project is to create a versatile file storage management soluti
 
 To use this library, you can include the desired implementation as a dependency in your Java project. Choose either the "Remote Storage on Google Drive" or the "Local File System Storage" implementation based on your requirements. The library provides clear API documentation for easy integration.
 
-## Implementation Details
-
-- **Remote Storage on Google Drive**: This implementation uses Google Drive as a remote file storage solution. It requires authentication via Gmail credentials and provides seamless access to your Google Drive for file management.
-
-- **Local File System Storage**: This implementation stores files on your local file system. It's a straightforward choice for managing files on your computer or a local server.
-
 ## Getting Started
 
 1. Clone the repository or add the library as a dependency in your Java project.
