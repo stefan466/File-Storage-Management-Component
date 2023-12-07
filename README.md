@@ -14,10 +14,6 @@ The goal of this project is to create a versatile file storage management soluti
 - Basic storage operations such as creating directories, storing files, deleting files and directories, moving files, and renaming files and folders.
 - Efficient searching capabilities within the storage, including retrieving files based on various criteria.
 
-## How to Use
-
-To use this library, you can include the desired implementation as a dependency in your Java project. Choose either the "Remote Storage on Google Drive" or the "Local File System Storage" implementation based on your requirements. The library provides clear API documentation for easy integration.
-
 ## Getting Started
 
 1. Clone the repository or add the library as a dependency in your Java project.
